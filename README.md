@@ -2,6 +2,7 @@
 An app which upload and manages photo to AWS S3
 
 How to run this project:
+
 •	Download the whole project from here and import it any ide. 
 •	Version used while developing Spring: 3.1.1 and java: 17.
 •	Run the spring application 
